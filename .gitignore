@@ -5,3 +5,5 @@ package-lock.json
 _dist
 _cache
 /_src/localStyles
+
+/.vscode
